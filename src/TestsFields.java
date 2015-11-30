@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Created by OSV on 14.11.15.
  */
-public class TestsUnicode {
+public class TestsFields {
     int exp;
     int res;
     Triangles t = new Triangles();
